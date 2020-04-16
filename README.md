@@ -22,3 +22,8 @@ model 放置需要渲染的模型或着纹理
 rt 完成光线追踪的不同部件,包括光源,积分器,材料反射性质,纹理匹配,
 超分辨采样等模块
 ```
+![image](https://github.com/gkUwen/-c-/blob/master/examples/a6-4e.png)
+![image](https://github.com/gkUwen/-c-/blob/master/examples/a8-fog-1.png)
+![image](https://github.com/gkUwen/-c-/blob/master/examples/a3-1.png)
+![image](https://github.com/gkUwen/-c-/blob/master/examples/final.png)
+
